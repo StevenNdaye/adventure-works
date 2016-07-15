@@ -1,0 +1,15 @@
+.vs/
+*.user
+project.lock.json
+test/AdventureWorksWebApi.UnitTests/bin/
+test/AdventureWorksWebApi.UnitTests/obj/
+src/obj/
+src/node_modules/
+src/bin/
+src/AdventureWorksWebApi/obj/
+src/AdventureWorksWebApi/node_modules/
+src/AdventureWorksWebApi/bin/
+src/AdventureWorksWebApi/AdventureWorksWebApii.xml
+src/AdventureWorksWebApi/hosting.json
+src/AdventureWorksWebApi/Properties/launchSettings.json
+src/AdventureWorksWebApi/appsettings.Local.json
