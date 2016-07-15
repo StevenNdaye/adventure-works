@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{00C5A980-9698-43A6-A35B-1BACEA9FD0D2}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AdventureWorksWebApi", "src\AdventureWorksWebApi\AdventureWorksWebApi.xproj", "{F8A6A09C-A83F-4148-8F46-796CA2A0087B}"
